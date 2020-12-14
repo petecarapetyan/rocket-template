@@ -1,7 +1,7 @@
 {
-  "name": "FIXME",
+  "name": "yada",
   "version": "1.0.0",
-  "description": "FIXME rocket source code",
+  "description": "yada rocket source code",
   "main": "index.js",
   "directories": {
     "doc": "docs"

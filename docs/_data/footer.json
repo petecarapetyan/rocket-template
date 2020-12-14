@@ -1,6 +1,6 @@
 [
   {
-    "name": "Discover",
+    "name": "Foo",
     "children": [
       {
         "text": "Blog",
@@ -8,20 +8,20 @@
       },
       {
         "text": "Help and Feedback",
-        "href": "https://github.com/daKmoR/rocket/issues"
+        "href": "/help/"
       }
     ]
   },
   {
-    "name": "Follow",
+    "name": "Bar",
     "children": [
       {
         "text": "Github",
-        "href": "https://github.com/dakmor/rocket"
+        "href": "https://github.com"
       },
       {
         "text": "Twitter",
-        "href": "https://twitter.com/modern_web_dev"
+        "href": "https://twitter.com"
       },
       {
         "text": "Slack",
@@ -30,15 +30,15 @@
     ]
   },
   {
-    "name": "Support",
+    "name": "Yada",
     "children": [
       {
         "text": "Sponsor",
         "href": "/about/sponsor/"
       },
       {
-        "text": "Contribute",
-        "href": "https://github.com/daKmoR/rocket/blob/master/CONTRIBUTING.md"
+        "text": "Wah",
+        "href": "/wah/"
       }
     ]
   }
